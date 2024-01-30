@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lokwara (Lewis Okwara)
 - 👀 I’m interested in Gaming and coding.
 - 🌱 I’m currently learning in Kabarak University,Kenya.
-- 💞️ I’m looking to collaborate on various languages such as Java,Python,C++ and more.
+- 💞️ I’m looking to collaborate on various languages such as Java,Python,React-Native and more.
 - 📫 How to reach me G-mail - okwaralewis16@gmail.com
 
 <!---
